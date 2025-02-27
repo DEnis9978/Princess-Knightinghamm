@@ -1,3 +1,5 @@
+# Welcome to the kingdome of the Princess Knightinghamm!
+
 This is a simple game I have developed called Princess Knightinghamm. It's a simple project with the help of Brackey's YouTube channel.
 
 Throughout this project, I had the chance to learn valuable stuff such as:
